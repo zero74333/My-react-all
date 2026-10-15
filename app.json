@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Counter SQLite Test",
+    "slug": "counter-sqlite-test",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.mohiuddin.countersqlitetest",
+      "versionCode": 1
+    },
+    "plugins": [
+      "expo-sqlite"
+    ]
+  }
+}
